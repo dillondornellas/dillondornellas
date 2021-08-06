@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dillondornellas
-- 👀 I’m interested in Coding!
+- 👀 I’m interested in creating cool things with code!
 - 📫 How to reach me dillon.dornellas@gmail.com
 
 <!---
